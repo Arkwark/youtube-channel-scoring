@@ -61,3 +61,4 @@
    ```bash
    git clone https://github.com/Arkwark/youtube-channel-scoring.git
    cd youtube-channel-scoring
+2. Убедитесь, что в корне проекта есть файл `.env` с вашим ключом (файл уже должен существовать локально; в git он не попадает):
